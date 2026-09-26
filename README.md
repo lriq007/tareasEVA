@@ -2,6 +2,6 @@
 
 Repositorio con las tareas del ramo **Evaluación Económica de Proyectos**, Universidad del Desarrollo.
 
-- **Profesor:** x
-- **Ayudante:** x
-- **Año:** x
+- **Profesor:** 
+- **Ayudante:** 
+- **Año:** 2026
