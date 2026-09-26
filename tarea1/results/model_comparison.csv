@@ -1,0 +1,3 @@
+modelo,"orden_(p,d,q)",aic,bic,n_coeficientes_(sin_sigma2),n_coeficientes_significativos_5%
+"ARIMA(0,0,0) con constante","(0, 0, 0)",-20247.71730384114,-20235.249235425756,1,0
+AR(1) con constante,"(1, 0, 0)",-20265.695849880318,-20246.993747257242,2,1

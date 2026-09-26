@@ -1,0 +1,13 @@
+# Markdown
+*.md
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+
+# Archivos de sistema
+.DS_Store
